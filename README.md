@@ -10,7 +10,12 @@
   
 # Unsupervised learning <h3>  
   
+  ![GitHub Logo](/images/myfig.3png)
   
-  ![GitHub Logo](/images/myfig3.png)
+  
+  Format: ![Alt Text](url)
+  
+  
+  (/images/myfig3.png)
   
   
