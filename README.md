@@ -9,3 +9,6 @@
   
   
 # Unsupervised learning <h3>  
+  
+  
+  ![GitHub Logo](/images/logo.png)
