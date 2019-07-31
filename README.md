@@ -2,15 +2,15 @@
 
 
 
-preg     768 non-null int64
-plas     768 non-null int64
-pres     768 non-null int64
-skin     768 non-null int64
-insu     768 non-null int64
-mass     768 non-null float64
-pedi     768 non-null float64
-age      768 non-null int64
-class    768 non-null object
+* preg     768 non-null int64
+* plas     768 non-null int64
+* pres     768 non-null int64
+* skin     768 non-null int64
+* insu     768 non-null int64
+* mass     768 non-null float64
+* pedi     768 non-null float64
+* age      768 non-null int64
+* class    768 non-null object
 dtypes: float64(2), int64(6), object(1)
 memory usage: 60.0+ KB
 
