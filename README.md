@@ -1,5 +1,6 @@
 # Artificial Neural Networks <h1>
 
+*There are nine columns in the dataset, which are as follows*
 
 
 * preg     768 non-null int64
