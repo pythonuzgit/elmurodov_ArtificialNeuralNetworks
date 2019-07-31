@@ -24,6 +24,8 @@ memory usage: 60.0+ KB
    
 *From the histogram for age, we can see that most of the data was clloecter from young people, with the most common age group between 20-30 years old. We can also see that the distribution for other concentration is normally disributed.*
 
+*We will build the neural network model using the scikit-learn library's, 'Multi-Layer Perceptron Classifier'. The first parameter 'hidden_layer_sizes' arugument set to three layers 10 nodes each.*
+
 precision    recall  f1-score   support
 
            0       0.92      0.80      0.86        15
