@@ -37,13 +37,8 @@ print(classification_report(y_test, predictions))
 
            0       0.92      0.80      0.86        15
            1       0.57      0.80      0.67         5
+   micro avg       0.80      0.80      0.80        20
+   macro avg       0.75      0.80      0.76        20
+weighted avg       0.84      0.80      0.81        20
 
-   micro avg        0.80       0.80       0.80         20
    
-   
-   macro avg        0.75       0.80       0.76         20
-   
-   
-weighted avg        0.84       0.80       0.81         20
-  
-  
