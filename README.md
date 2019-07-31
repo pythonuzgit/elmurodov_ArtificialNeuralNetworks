@@ -33,7 +33,7 @@ print(confusion_matrix(y_test, predictions))
 
 print(classification_report(y_test, predictions))
 
-* precision    * recall  * f1-score   *support
+    precision     recall    f1-score   support
 
            0       0.92      0.80      0.86        15
            1       0.57      0.80      0.67         5
