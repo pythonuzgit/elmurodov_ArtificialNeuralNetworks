@@ -26,13 +26,24 @@ memory usage: 60.0+ KB
 
 *We will build the neural network model using the scikit-learn library's, 'Multi-Layer Perceptron Classifier'. The first parameter 'hidden_layer_sizes' arugument set to three layers 10 nodes each.*
 
-precision    recall  f1-score   support
+print(confusion_matrix(y_test, predictions))
+[[12  3]
+ [ 1  4]]
+
+
+print(classification_report(y_test, predictions))
+
+* precision    * recall  * f1-score   *support
 
            0       0.92      0.80      0.86        15
            1       0.57      0.80      0.67         5
 
    micro avg       0.80      0.80      0.80        20
+   
+   
    macro avg       0.75      0.80      0.76        20
+   
+   
 weighted avg       0.84      0.80      0.81        20
   
   
