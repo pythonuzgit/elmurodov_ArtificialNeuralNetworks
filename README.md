@@ -11,6 +11,7 @@
 * pedi     768 non-null float64
 * age      768 non-null int64
 * class    768 non-null object
+
 dtypes: float64(2), int64(6), object(1)
 memory usage: 60.0+ KB
 
