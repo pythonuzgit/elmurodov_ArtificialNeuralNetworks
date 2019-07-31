@@ -16,16 +16,11 @@
 dtypes: float64(2), int64(6), object(1)
 memory usage: 60.0+ KB
 
-  
+*By visualizing the distribution of the eight variables in the dataset.* 
  
   
   
-
-  
-  ![GitHub Logo](/images/myfig.3png)
-  
-  
-  Format: ![Alt Text](https://github.com/pythonuzgit/elmurodov/blob/master/myfig.png)
+ ![Alt Text](https://github.com/pythonuzgit/elmurodov/blob/master/myfig.png)
   
   
  
