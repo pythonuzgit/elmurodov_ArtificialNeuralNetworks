@@ -4,7 +4,9 @@
  * Library: Pandas and NumPy
  * Module: Scikit-Learn
  
- *Understanding Dataset*
+ *Understanding the Dataset* Let us explore the dataset. We will be using the Diabetes Dataset, with row 765 row, 8 attributtes with the target column.
+ 
+In this example, we will build a classifier to predict if a patient has diabetes or not. 
  
 *There are nine columns in the dataset, which are as follows*
 * preg     768 non-null int64
