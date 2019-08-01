@@ -1,4 +1,11 @@
-# Artificial Neural Networks <h1>
+# Artificial Neural Networks <h1> *using Scikit-Learn in Python - Diabetes Dataset*
+ 
+ * Environment: Python 3 and Jupyter Notebook
+ * Library: Pandas and NumPy
+ * Module: Scikit-Learn
+ 
+ 
+ 
 *There are nine columns in the dataset, which are as follows*
 * preg     768 non-null int64
 * plas     768 non-null int64
