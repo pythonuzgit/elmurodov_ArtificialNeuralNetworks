@@ -4,7 +4,9 @@
  * Library: Pandas and NumPy
  * Module: Scikit-Learn
  
- *Understanding the Dataset* Let us explore the dataset. We will be using the Diabetes Dataset, with row 765 row, 8 attributtes with the target column.
+ *Understanding the Dataset* 
+ 
+Let us explore the dataset. We will be using the Diabetes Dataset, with row 765 row, 8 attributtes with the target column.
  
 In this example, we will build a classifier to predict if a patient has diabetes or not. 
  
@@ -28,7 +30,7 @@ memory usage: 60.0+ KB
   
  ![Alt Text](https://github.com/pythonuzgit/elmurodov/blob/master/myfig.png)
    
-*From the histogram for age, we can see that most of the data was clloecter from young people, with the most common age group between 20-30 years old. We can also see that the distribution for other concentration is normally disributed.*
+*From the histogram for age, we can see that most of the data was collected from young people, with the most common age group between 20-30 years old. We can also see that the distribution for other concentration is normally disributed.*
 
 *We will build the neural network model using the scikit-learn library's, 'Multi-Layer Perceptron Classifier'. The first parameter 'hidden_layer_sizes' arugument set to three layers 10 nodes each.*
 
