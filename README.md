@@ -6,7 +6,7 @@
  
  *Understanding the Dataset* 
  
-Let us explore the dataset. We will be using the Diabetes Dataset, with row 765 row, 8 attributtes with the target column.
+Let us explore the dataset. We will be using the Diabetes Dataset, with row 768 row, 9 attributtes with the target column.
  
 In this example, we will build a classifier to predict if a patient has diabetes or not. 
  
