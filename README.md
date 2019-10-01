@@ -37,4 +37,4 @@ memory usage: 60.0+ KB
 *Our output shows the performance of the model on training data. The accuracy and the f1-score is around 0.81, respectively.*
 [GitHub](https://github.com/pythonuzgit/elmurodov/blob/master/Neural_Network%20with%20diabetes%20dataset.ipynb)
 
-
+ 
