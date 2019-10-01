@@ -38,3 +38,4 @@ memory usage: 60.0+ KB
 [GitHub](https://github.com/pythonuzgit/elmurodov/blob/master/Neural_Network%20with%20diabetes%20dataset.ipynb)
 
  
+ 
